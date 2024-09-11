@@ -25,11 +25,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 
-# ===============================================================
-# Entered from https://raw.githubusercontent.com/celsriseup/awesome-booru/master/boorus.json
-# Date: 2024-09-11
-#
-# ===============================================================
+
 
 0.0.0.0 encyclopediadramatica.com
 0.0.0.0 encyclopediadramatica.ch
@@ -40,6 +36,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 encyclopediadramatica.top
 0.0.0.0 encyclopediadramatica.win
 0.0.0.0 encyclopediadramatica.gay
+
+# ===============================================================
+# Entered from https://raw.githubusercontent.com/celsriseup/awesome-booru/master/boorus.json
+# Date: 2024-09-11
+#
+# ===============================================================
+
 0.0.0.0 gelbooru.com
 0.0.0.0 e621.net
 0.0.0.0 4chan.org
