@@ -25,8 +25,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 
-
-
 0.0.0.0 encyclopediadramatica.com
 0.0.0.0 encyclopediadramatica.ch
 0.0.0.0 encyclopediadramatica.se
@@ -102,7 +100,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cow.zone
 0.0.0.0 wildcritters.ws
 0.0.0.0 inkbunny.net
-0.0.0.0 Nozomi.la
+0.0.0.0 nozomi.la
 0.0.0.0 nik.bot.nu
 0.0.0.0 nanochan.org
 0.0.0.0 miya.nepah.moe
