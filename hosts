@@ -36,6 +36,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 encyclopediadramatica.gay
 
 # ===============================================================
+# Stupid ads that I see everywhere.
+# ===============================================================
+
+0.0.0.0 temu.com
+0.0.0.0 popblockergold.com
+0.0.0.0 golumantes.com
+0.0.0.0 offernow24.com
+
+# ===============================================================
 # Entered from https://raw.githubusercontent.com/celsriseup/awesome-booru/master/boorus.json
 # Date: 2024-09-11
 #
@@ -44,10 +53,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 gelbooru.com
 0.0.0.0 e621.net
 0.0.0.0 4chan.org
-0.0.0.0 temu.com
-0.0.0.0 popblockergold.com
-0.0.0.0 golumantes.com
-0.0.0.0 offernow24.com
 0.0.0.0 derpibooru.org
 0.0.0.0 sankakucomplex.com
 0.0.0.0 konachan.com
@@ -55,8 +60,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tbib.com
 0.0.0.0 xbooru.com
 0.0.0.0 booru.org
-0.0.0.0 rule34.paheal.net
-0.0.0.0 cosplay.paheal.net
+0.0.0.0 paheal.net
 0.0.0.0 yandre.re
 0.0.0.0 donmai.us
 0.0.0.0 safebooru.org
