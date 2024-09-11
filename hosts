@@ -6,6 +6,7 @@
 # Manually forked from: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/depwl9992/hosts
 #
+# Verified that tld's will block all subdomains.
 # ===============================================================
 
 127.0.0.1 localhost
@@ -22,6 +23,13 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
+
+
+# ===============================================================
+# Entered from https://raw.githubusercontent.com/celsriseup/awesome-booru/master/boorus.json
+# Date: 2024-09-11
+#
+# ===============================================================
 
 0.0.0.0 encyclopediadramatica.com
 0.0.0.0 encyclopediadramatica.ch
@@ -49,3 +57,76 @@ ff02::3 ip6-allhosts
 0.0.0.0 rule34.paheal.net
 0.0.0.0 cosplay.paheal.net
 0.0.0.0 yandre.re
+0.0.0.0 donmai.us
+0.0.0.0 safebooru.org
+0.0.0.0 dollbooru.org
+0.0.0.0 giantessbooru.com
+0.0.0.0 dorkbooru.com
+0.0.0.0 myverm.in
+0.0.0.0 evbooru.com
+0.0.0.0 lolibooru.com
+0.0.0.0 megabooru.com
+0.0.0.0 analbooru.com
+0.0.0.0 zombooru.com
+0.0.0.0 kusubooru.com
+0.0.0.0 scatbooru.co.uk
+0.0.0.0 realbooru.com
+0.0.0.0 pbooru.com
+0.0.0.0 boorufurry.com
+0.0.0.0 bronibooru.com
+0.0.0.0 mspabooru.com
+0.0.0.0 sakugabooru.com
+0.0.0.0 booru.vineshroom.net
+0.0.0.0 booru.realmofastra.com
+0.0.0.0 booru.room208.org
+0.0.0.0 pandabooru.net
+0.0.0.0 uberbooru.com
+0.0.0.0 thehentaiworld.com
+0.0.0.0 hentai-cosplay.com
+0.0.0.0 hard55.com
+0.0.0.0 skycow.us
+0.0.0.0 sheslostcontrol.net
+0.0.0.0 zumki.ru
+0.0.0.0 fanservice.fan
+0.0.0.0 rule34yaoi.com
+0.0.0.0 tentaclerape.net
+0.0.0.0 wh40kart.im
+0.0.0.0 4chanhouse.org
+0.0.0.0 sankakucomplex.com
+0.0.0.0 behoimi.org
+0.0.0.0 furaffinity.net
+0.0.0.0 burrowowl.net
+0.0.0.0 cow.zone
+0.0.0.0 wildcritters.ws
+0.0.0.0 inkbunny.net
+0.0.0.0 Nozomi.la
+0.0.0.0 nik.bot.nu
+0.0.0.0 nanochan.org
+0.0.0.0 miya.nepah.moe
+0.0.0.0 cjdavies.org
+0.0.0.0 lolibaka.com
+0.0.0.0 e-shuushuu.net
+0.0.0.0 gallery.fanserviceftw.com
+0.0.0.0 shimmie.shishnet.org
+0.0.0.0 konachan.net
+0.0.0.0 e926.net
+0.0.0.0 yukkuri.shii.org
+0.0.0.0 oyp.yunyah.com
+0.0.0.0 zerochan.net
+0.0.0.0 kpop.ashiachan.com
+0.0.0.0 minitokyo.net
+0.0.0.0 karabako.net
+0.0.0.0 img.genshiken-itb.org
+0.0.0.0 fanart.oceanfalls.net
+0.0.0.0 cascards.fluffyquack.com
+0.0.0.0 taskforce.moe
+0.0.0.0 creativity.xenonlabs.eu
+0.0.0.0 wallhaven.cc
+0.0.0.0 angelhq.net
+0.0.0.0 chan.aniview.eu
+0.0.0.0 animedia.com.mx
+0.0.0.0 wudthipan.com
+0.0.0.0 ichijou.org
+0.0.0.0 shimmie.katawa-shoujo.com
+0.0.0.0 twentypercentcooler.net
+0.0.0.0 youhate.us
